@@ -1,0 +1,197 @@
+{
+ "key": "ccb46e86",
+ "stars": 204,
+ "contributions": 22,
+ "repos": 2,
+ "followers": 14,
+ "languages": [
+  [
+   "Dart",
+   2326792
+  ],
+  [
+   "GLSL",
+   1841198
+  ],
+  [
+   "C++",
+   28022
+  ],
+  [
+   "CMake",
+   19809
+  ],
+  [
+   "Swift",
+   3439
+  ],
+  [
+   "C",
+   1425
+  ],
+  [
+   "Kotlin",
+   129
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 24,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 30,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 31,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 1,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 2,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 3,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 6,
+    "today": true
+   },
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 3
+ },
+ "pins": [
+  {
+   "name": "ShikiWatch",
+   "url": "https://github.com/wheremyfiji/ShikiWatch",
+   "text": "Unofficial mobile and desktop application for Shikimori",
+   "fork": false,
+   "stars": 204,
+   "language": "Dart",
+   "topics": [
+    "android",
+    "dart",
+    "flutter",
+    "shikimori",
+    "windows",
+    "anime",
+    "material-design-3"
+   ]
+  }
+ ],
+ "all": [
+  {
+   "name": "ShikiWatch",
+   "url": "https://github.com/wheremyfiji/ShikiWatch",
+   "text": "Unofficial mobile and desktop application for Shikimori",
+   "fork": false,
+   "stars": 204,
+   "language": "Dart",
+   "topics": [
+    "android",
+    "dart",
+    "flutter",
+    "shikimori",
+    "windows",
+    "anime",
+    "material-design-3"
+   ]
+  },
+  {
+   "name": "wheremyfiji",
+   "url": "https://github.com/wheremyfiji/wheremyfiji",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  }
+ ]
+}
